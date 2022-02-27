@@ -1,0 +1,55 @@
+:root {
+  --white: #ebf8ff;
+  --darkBlue: #04197d;
+  --border-radius: 25px;
+}
+
+  #container-pg1 {
+    background-color: var(--white);
+  }
+
+  #container-pg1 h1 {
+    font-size: 1.5rem;
+  }
+
+  #container-pg1 p {
+    font-size: 1rem;
+  }
+
+.bg-img {
+  background-image: url("../images/blueLights.png");
+  background-size: cover;
+  background-position: center;
+  height: 700px;
+  background-attachment: fixed;
+}
+
+#view-high-score {
+  padding: 10px 15px;
+}
+
+#view-high-score:hover {
+  background-color: var(--white);
+  color: var(--darkBlue);
+  border-radius: var(--border-radius);
+}
+
+.slide{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+.active-slide{
+  opacity: 1;
+  z-index: 2;
+}
+.quiz-container{
+  position: relative;
+  height: 200px;
+  margin-top: 40px;
+}
+
