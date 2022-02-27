@@ -6,9 +6,9 @@
 
  ## Table of Contents
 
-  - [Installation](#installation)
-  - [Usage](#usage)
+  - [Installation](#Installation)
   - [Website](#Website)
+  - [Usage](#Usage)
   - [Screenshot](#Screenshot)
   
 
