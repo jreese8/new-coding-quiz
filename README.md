@@ -17,7 +17,7 @@
 
 
   ## Website
-  https://jreese8.github.io/new-coding-quiz/questions-page.html
+  https://jreese8.github.io/new-coding-quiz/
 
   
   ## Usage
